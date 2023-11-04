@@ -3,8 +3,7 @@
 -웹 페이지를 만들어 사용자들 끼리 prompt값 및 생성된 이미지 공유
 
 #
--flask를 활용하여 DB에 이미지 및 회원가입 정보를 넣을려 했지만 colab상에서는 flask만 가능함
-그래서 jupyterNotebook을 사용해서 db에 회원가입 정보 및 게시판 저장함
+-flask를 활용하여 DB에 이미지 및 회원가입 정보를 넣을려 했지만 colab상에서는 flask만 가능함 그래서 jupyterNotebook을 사용해서 db에 회원가입 정보 및 게시판 저장함
 #개발환경
 -jupyterNotebook
 -python
